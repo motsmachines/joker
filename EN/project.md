@@ -30,7 +30,8 @@ The goal of the JOKER workshop is to bring together translators and computer sci
   <li>Position, discussion & demo papers</li>
   <li>Extended abstracts of published papers</li>
   </ul>
-  
+ </p>
+ 
 ### Pilot tasks
 
   <p>
