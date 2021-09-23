@@ -53,8 +53,7 @@ For the tasks 2& 3, it is necessary to establish metrics for evaluating translat
     <li>Closing speech 15 mins</li>
   </ul>
   <p>
-<b>Acknowledgement</b>. This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001.
-  </p>
+
 <h3 id="note1">References:</h3>
   <p>
 <p>[1]	‘SemEval-2021 Tasks’, SemEval-2021. https://semeval.github.io/SemEval2021/tasks.html (accessed Mar. 02, 2021).</p>
