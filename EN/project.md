@@ -30,7 +30,9 @@ The goal of the JOKER workshop is to bring together translators and computer sci
   <li>Position, discussion & demo papers</li>
   <li>Extended abstracts of published papers</li>
   </ul>
+  
 ### Pilot tasks
+
   <p>
 <b>Pilot task 1</b>: Classify and explain a given punning construction in a proper noun or a neologism. The classification will be evaluated by the accuracy, while the explanation will be compared against the gold-standard (exact match).
   </p>
