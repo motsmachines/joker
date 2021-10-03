@@ -3,7 +3,7 @@
   <img src="Joker.png" width="120" height="142">
   </p>
 
-[Home](index) | Project | [Partners](partners) | [Contact Us](contact) | [Tools](tools) | [<img src="drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/projet)
+[Home](index) | Project | [Partners](partners) | [Contact Us](contact) | [Tools](tools) | [<img src="drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/project)
 <br>
   <h1 align="center"><a href="https://motsmachines.github.io/joker/EN">CLEF Workshop JOKER</a>:</h1>
   <h2 align="center">Traduction automatique des jeux de mots et de l'humour
