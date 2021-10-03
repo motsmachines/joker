@@ -60,3 +60,16 @@ Opening speech 15 min
 <p>[10]	S. Castro, L. Chiruzzo, A. Rosá, D. Garat, and G. Moncecchi, ‘A Crowd-Annotated Spanish Corpus for Humor Analysis’, in Proceedings of the Sixth International Workshop on Natural Language Processing for Social Media, Melbourne, Australia, Jul. 2018, pp. 7–11. doi: 10.18653/v1/W18-3502.</p>
 <p>[11]	K. Papineni, S. Roukos, T. Ward, and W.-J. Zhu, ‘BLEU: a method for automatic evaluation of machine translation’, in Proceedings of the 40th annual meeting on association for computational linguistics, 2002, pp. 311–318.<p/>
   </p>
+  
+  <br>*- This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001*
+<br>*- JokeR is supported by The Human Science Institute in Brittany (MSHB)*
+
+<div align="center">
+  <a href="https://www.mshb.fr"><img src="./MSHB.jpg" height="120"></a>
+  <a href="https://sea-eu.org/?lang=fr"><img src="./SEA-EU.png" height="120"></a>
+  <a href="https://www.gouvernement.fr/le-programme-d-investissements-d-avenir"><img src="./Investissement avenir.jpeg" height="120"></a>
+</div>
+<br>
+<div align="center">
+  <a href="https://clef2022.clef-initiative.eu/index.php"><img src="./CLEF2022.png" height="90"></a> 
+</div>
