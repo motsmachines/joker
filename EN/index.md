@@ -17,4 +17,4 @@ Intercultural communication relies heavily on translation. Humor remains by far 
 
 [<img src="./MSHB.jpg" width="150">](https://www.mshb.fr/)
 [<img src="./SEA-EU.png" width="150">](https://sea-eu.org/?lang=fr)
-[<img src="./Investissement avenir.jpg" width="150">](https://sea-eu.org/?lang=fr)
+[<img src="./Investissement avenir.jpeg" width="150">](https://www.gouvernement.fr/le-programme-d-investissements-d-avenir)
