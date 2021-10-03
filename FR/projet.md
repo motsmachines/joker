@@ -8,28 +8,28 @@
   <h1 align="center"><a href="https://motsmachines.github.io/joker/EN">CLEF Workshop JOKER</a>:</h1>
   <h2 align="center">Automatic Pun and Humour Translation</h2>
 
-  ### Topics & Goals ###
+  <h3>Topics & Goals</h3>
   
   The goal is to unify the scientific community interested in automatic localization of humor and puns.  The JokeR project addresses the issue of European identity through the study of humor in a cross-cultural perspective. The main objective of the JokeR project is to study the strategies of localization of humor and puns and to create a multilingual parallel corpus, annotated according to these strategies, open and freely available, as well as evaluation metrics.
 
-  ### Motivation & Relevance to CLEF & Significance for the field ###
+  <h3>Motivation & Relevance to CLEF & Significance for the field</h3>
 
   Intercultural communication relies heavily on translation. Humor remains by far one of its most difficult aspects; to understand humor, one often has to grasp implicit cultural references and/or capture double meanings, which of course raises the question of the (in)translatability of humor. Puns are a common source of humor and are used by novelists, poets, and playwrights, as well as in titles, headlines, toponyms, anthroponyms, organizations, and advertising for their attention-getting or mnemonic, playful, subversive, etc. values. The translation of humor and puns is therefore in high demand. Modern translation is heavily aided by technological tools, yet few works have studied the automation of humor and puns translation and the creation of humor corpora. To the best of our knowledge, there does not exist any parallel corpus.
 
   The **multilingual parallel corpus** issued as the results of the JokeR workshop will be a step forward in the automatization of humour localization so as to train and evaluate machine translation models. Few **monolingual** humour corpora exist; for example, datasets created for the tasks of the International Workshop on Semantic Evaluation SemEval <a href="#note1">[1]–[3]</a>: #HashtagWars: Learning a Sense of Humor (2017), Detection and Interpretation of English Puns (2017), Assessing Humor in Edited News Headlines (2020), HaHackathon: Detecting and Rating Humor and Offense (2021). Mihalcea and Strapparava <a href="#note1">[4]</a> collected 16,000 humorous sentences and an equal number of negative samples from news titles, proverbs, British National Corpus, and the Open Mind Common Sense dataset, while another dataset contains 2,400 puns and not-puns from the news, Yahoo!Answers, and proverbs <a href="#note1">[5]</a>, <a href="#note2">[6]</a>. Most datasets are in English; few exceptions in Italian <a href="#note2">[7]</a>, Russian <a href="#note2">[8]</a>, <a href="#note2">[9]</a>, and Spanish <a href="#note2">[10]</a>.
 
-  ### Application domain ###
+  <h3>Application domain</h3>
 
   The multilingual data and metrics resulting from the JokeR workshop will be a step forward in the automation of humor localization in order to train and evaluate machine translation models. This corpus might also be useful for translation students. 
 
-  ### Evaluation setup, metrics and pilot tasks ###
+  <h3>Evaluation setup, metrics and pilot tasks</h3>
 
   The goal of the JOKER workshop is to bring together translators and computer scientists to work on an evaluation framework for creative langage. All types of contributions will be welcomed:
   - Research & survey papers
   - Position, discussion & demo papers
   - Extended abstracts of published papers
 
-  ### Pilot tasks
+  <h3>Pilot tasks</h3>
 
 **Pilot task 1**: Classify and explain a given punning construction in a proper noun or a neologism. The classification will be evaluated by the accuracy, while the explanation will be compared against the gold-standard (exact match).
 
@@ -39,14 +39,14 @@
 
 For the tasks 2& 3, it is necessary to establish metrics for evaluating translation quality. Traditionally, machine translation quality is measured by the BLEU (Bilingual Evaluation Understudy) metric, which calculates vocabulary overlap between the candidate translation and the reference translation <a href="#note11">[11]</a>. However, no metric based on vocabulary overlap is applicable to evaluate creative language translation. First, we will opt for a questionnaire to be filled in by the annotators ("is the wordplay present in the translation?", "is the semantic field preserved in the translation?” etc.). At the end of the workshop, we will study the automation of the selected metrics. 
 
-### Expected length of the workshop at the conference is half-day:
+<h3>Expected length of the workshop at the conference is half-day:</h3>
 
 Opening speech 15 min
   - Guest speaker 1 h
   - Presentations of the participants 15 mins + 5 min for questions
   - Closing speech 15 mins
 
-  ### References:
+  <h3>References:</h3>
   
 ##### [1]	‘SemEval-2021 Tasks’, SemEval-2021. https://semeval.github.io/SemEval2021/tasks.html (accessed Mar. 02, 2021).
 ##### [2]	‘Tasks < SemEval-2017’. https://alt.qcri.org/semeval2017/index.php?id=tasks (accessed Mar. 02, 2021).
