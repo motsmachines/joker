@@ -24,7 +24,7 @@
 
   <h3>Evaluation setup, metrics and pilot tasks</h3>
 
-  The goal of the JOKER workshop is to bring together translators and computer scientists to work on an evaluation framework for creative langage. All types of contributions will be welcomed:
+  The goal of the JokeR workshop is to bring together translators and computer scientists to work on an evaluation framework for creative langage. All types of contributions will be welcomed:
   - Research & survey papers
   - Position, discussion & demo papers
   - Extended abstracts of published papers
