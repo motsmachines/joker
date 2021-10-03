@@ -16,7 +16,7 @@ Intercultural communication relies heavily on translation. Humor remains by far 
 <br>*This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001.*
 
 <div align="center">
-  <a href="https://www.mshb.fr"><img src="./MSHB.jpg" width="150"></a>
-  <a href="https://sea-eu.org/?lang=fr"><img src="./SEA-EU.png" width="150"></a>
-  <a href="https://www.gouvernement.fr/le-programme-d-investissements-d-avenir"><img src="./Investissement avenir.jpeg" width="150"></a>
+  <a href="https://www.mshb.fr"><img src="./MSHB.jpg" height="150"></a>
+  <a href="https://sea-eu.org/?lang=fr"><img src="./SEA-EU.png" height="150"></a>
+  <a href="https://www.gouvernement.fr/le-programme-d-investissements-d-avenir"><img src="./Investissement avenir.jpeg" height="150"></a>
 </div>
