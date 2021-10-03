@@ -31,5 +31,3 @@ La communication interculturelle repose en grande partie sur la traduction. L'hu
 <div align="center">
   <a href="https://clef2022.clef-initiative.eu/index.php"><img src="./CLEF2022.png" height="90"></a> 
 </div>
-  <a href="https://clef2022.clef-initiative.eu/index.php"><img src="./CLEF2022.png" height="90"></a> 
-</div>
