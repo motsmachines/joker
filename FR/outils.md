@@ -6,7 +6,7 @@
 [Accueil](index) | [Projet](projet) | [Partenaires](partenaires) | [Nous contacter](contact) | Outils | [<img src="drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/options)
 <br>
 
-<br> [PunCAT](https://github.com/OFAI/PunCAT) : PunCAT est un prototype d’outil interactif utilisé pour la traduction assistée par ordinateur de jeux de mots. Bien qu’il soit facilement adaptable à n’importe quelle langue possédant un wordnet, PunCAT n’est pour l’instant compatible que pour la traduction de l’anglais vers l’allemand.
+<br> [PunCAT](https://github.com/OFAI/PunCAT) : PunCAT est un prototype d'outil interactif pour la traduction de jeux de mots assistée par ordinateur . Bien qu'il puisse être  assez facilement adapté pour fonctionner avec n'importe quelle paire de langues pour laquelle des wordnets sont disponibles, il ne prend actuellement en charge que la traduction de l'anglais vers l'allemand.
 
 <p>
 <em>Ce projet a bénéficié d'une aide de l'état gérée par l'Agence Nationale de la Recherche au titre du programme « Investissements d'avenir » portant la Référence ANR-19-GURE-0001</em>
