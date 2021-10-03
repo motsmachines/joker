@@ -14,6 +14,7 @@ Intercultural communication relies heavily on translation. Humor remains by far 
 
 
 <br>*This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001.*
+<br>*JokeR is supported by The Human Science Institute in Brittany (MSHB)
 
 <div align="center">
   <a href="https://www.mshb.fr"><img src="./MSHB.jpg" height="120"></a>
