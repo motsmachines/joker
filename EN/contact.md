@@ -17,15 +17,18 @@
 
 
 
-<br>*- This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001*
-<br>*- JokeR is supported by The Human Science Institute in Brittany (MSHB)*
-
+<p>
+<em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001</em>
+</p>
+<p>
+<em>JokeR is supported by The Human Science Institute in Brittany (MSHB)</em>
+</p>
 <div align="center">
   <a href="https://www.mshb.fr"><img src="./MSHB.jpg" height="120"></a>
   <a href="https://sea-eu.org/?lang=fr"><img src="./SEA-EU.png" height="120"></a>
   <a href="https://www.gouvernement.fr/le-programme-d-investissements-d-avenir"><img src="./Investissement avenir.jpeg" height="120"></a>
 </div>
-<br>
+<br />
 <div align="center">
   <a href="https://clef2022.clef-initiative.eu/index.php"><img src="./CLEF2022.png" height="90"></a> 
 </div>
