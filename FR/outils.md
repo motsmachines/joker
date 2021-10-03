@@ -7,3 +7,19 @@
 <br>
 
 <br> [PunCAT](https://github.com/OFAI/PunCAT) : PunCAT est un prototype d’outil interactif utilisé pour la traduction assistée par ordinateur de jeux de mots. Bien qu’il soit facilement adaptable à n’importe quelle langue possédant un wordnet, PunCAT n’est pour l’instant compatible que pour la traduction de l’anglais vers l’allemand.
+
+<p>
+<em>Ce projet a bénéficié d'une aide de l'état gérée par l'Agence Nationale de la Recherche au titre du programme « Investissements d'avenir » portant la Référence ANR-19-GURE-0001</em>
+</p>
+<p>
+<em>JokeR est labellisé par la Maison des Sciences de l'Homme en Bretagne</em>
+</p>
+<div align="center">
+  <a href="https://www.mshb.fr"><img src="./MSHB.jpg" height="120"></a>
+  <a href="https://sea-eu.org/?lang=fr"><img src="./SEA-EU.png" height="120"></a>
+  <a href="https://www.gouvernement.fr/le-programme-d-investissements-d-avenir"><img src="./Investissement avenir.jpeg" height="120"></a>
+</div>
+<br />
+<div align="center">
+  <a href="https://clef2022.clef-initiative.eu/index.php"><img src="./CLEF2022.png" height="90"></a> 
+</div>
