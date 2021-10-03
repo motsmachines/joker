@@ -20,7 +20,8 @@ Intercultural communication relies heavily on translation. Humor remains by far 
   <a href="https://sea-eu.org/?lang=fr"><img src="./SEA-EU.png" height="120"></a>
   <a href="https://www.gouvernement.fr/le-programme-d-investissements-d-avenir"><img src="./Investissement avenir.jpeg" height="120"></a>
 </div>
+<br>
 <div align="center">
-  <a href="https://clef2022.clef-initiative.eu/index.php"><img src="./CLEF2022.png" height="120"></a> 
+  <a href="https://clef2022.clef-initiative.eu/index.php"><img src="./CLEF2022.png" height="90"></a> 
 </div>
 
