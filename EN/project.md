@@ -46,9 +46,9 @@ Opening speech 15 min
   - Presentations of the participants 15 mins + 5 min for questions
   - Closing speech 15 mins
 
-<div>
+<p>
   <a href="./JOKER_CLEF_2021.pdf"><em>CLEF evaluation campaign</em></a>
-</div>
+</p>
 
 <h3 id="note1">References:</h3>
   <p>
