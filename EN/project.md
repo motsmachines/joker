@@ -39,7 +39,7 @@
 
 For the tasks 2& 3, it is necessary to establish metrics for evaluating translation quality. Traditionally, machine translation quality is measured by the BLEU (Bilingual Evaluation Understudy) metric, which calculates vocabulary overlap between the candidate translation and the reference translation <a href="#note2">[11]</a>. However, no metric based on vocabulary overlap is applicable to evaluate creative language translation. First, we will opt for a questionnaire to be filled in by the annotators ("is the wordplay present in the translation?", "is the semantic field preserved in the translation?” etc.). At the end of the workshop, we will study the automation of the selected metrics. 
 
-<h3>Expected length of the workshop at the conference is half-day:
+<h3>Expected length of the workshop at the conference is half-day:</h3>
 
 Opening speech 15 min
   - Guest speaker 1 h
