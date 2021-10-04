@@ -46,6 +46,9 @@ Opening speech 15 min
   - Presentations of the participants 15 mins + 5 min for questions
   - Closing speech 15 mins
 
+<div>
+  <a href="./JOKER_CLEF_2021.pdf">CLEF evaluation campaign</a>
+</div>
 <h3 id="note1">References:</h3>
   <p>
 <p>[1]	‘SemEval-2021 Tasks’, SemEval-2021. https://semeval.github.io/SemEval2021/tasks.html (accessed Mar. 02, 2021).</p>
@@ -67,9 +70,6 @@ Opening speech 15 min
 <p>
 <em>JokeR is supported by The Human Science Institute in Brittany (MSHB)</em>
 </p>
-<div>
-  <a href="./JOKER_CLEF_2021.pdf">CLEF evaluation campaign</a>
-</div>
 <div align="center">
   <a href="https://www.mshb.fr"><img src="./MSHB.jpg" height="120"></a>
   <a href="https://sea-eu.org/?lang=fr"><img src="./SEA-EU.png" height="120"></a>
