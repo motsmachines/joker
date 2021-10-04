@@ -67,7 +67,9 @@ Opening speech 15 min
 <p>
 <em>JokeR is supported by The Human Science Institute in Brittany (MSHB)</em>
 </p>
-  <a href="./JOKER_CLEF_2021.pdf"align="center">CLEF evaluation campaign</a>
+<div align="center">
+  <a href="./JOKER_CLEF_2021.pdf">CLEF evaluation campaign</a>
+</div>
 <div align="center">
   <a href="https://www.mshb.fr"><img src="./MSHB.jpg" height="120"></a>
   <a href="https://sea-eu.org/?lang=fr"><img src="./SEA-EU.png" height="120"></a>
