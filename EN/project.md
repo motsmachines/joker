@@ -47,7 +47,7 @@ Opening speech 15 min
   - Closing speech 15 mins
 
 <p>
-  <a href="./JOKER_CLEF_2021.pdf"><h3>CLEF evaluation campaign</h3></a>
+  <a href="./JOKER_CLEF_2021.pdf"><h3>CLEF evaluation campaign </h3>(link to .pdf file)</a>
 </p>
 
 <h3 id="note1">References:</h3>
