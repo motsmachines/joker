@@ -14,7 +14,7 @@ La communication interculturelle repose en grande partie sur la traduction. L'hu
 
 [Lien vers le site de l'évènement AI DAYS](https://ai-days.bzh/)
 
-[Lien vers un résumé du projet JokeR](./JOKER Brest IA)
+[Lien vers un résumé du projet JokeR](./JOKER Brest IA.pdf/)
 
 <p>
 <em>Ce projet a bénéficié d'une aide de l'état gérée par l'Agence Nationale de la Recherche au titre du programme « Investissements d'avenir » portant la Référence ANR-19-GURE-0001</em>
