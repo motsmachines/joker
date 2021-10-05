@@ -47,6 +47,10 @@ Discours d'ouverture 15 min
   - Présentations des participants 15 mins + 5 mins pour les questions
   - Discours de clôture 15 mins
 
+<p>
+<a href="./JOKER_CLEF_2021.pdf"><h3>Campagne d'évalutation CLEF (pdf en anglais)</h3></a>
+</p>  
+
 <h3 id="note1">Références:</h3>
   <p>
 <p>[1]	‘SemEval-2021 Tasks’, SemEval-2021. https://semeval.github.io/SemEval2021/tasks.html (accessed Mar. 02, 2021).</p>
