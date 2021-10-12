@@ -8,7 +8,6 @@
 
 <h2 align="center">Liste des publications liées au projet JOKER</h2>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
@@ -16,12 +15,15 @@
 <body>
 <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
   <p>
-  <div class="csl-entry">Association for Computational Linguistics, Korhonen, Anna, et al. <i>The 57th Annual Meeting of the Association for Computational Linguistics - Proceedings of the Conference July 28-August 2, 2019, Florence, Italy</i>. 2019. <i>Open WorldCat</i>, <a href="https://www.aclweb.org/anthology/P19-1">https://www.aclweb.org/anthology/P19-1</a>.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-1-950737-48-2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The%2057th%20Annual%20Meeting%20of%20the%20Association%20for%20Computational%20Linguistics%20-%20proceedings%20of%20the%20conference%20July%2028-August%202%2C%202019%2C%20Florence%2C%20Italy&amp;rft.aufirst=Korhonen%2C%20Anna&amp;rft.aulast=Association%20for%20Computational%20Linguistics&amp;rft.au=Korhonen%2C%20Anna%20Association%20for%20Computational%20Linguistics&amp;rft.au=David%20Traum&amp;rft.au=Llu%C3%ADs%20M%C3%A0rquez&amp;rft.au=undefined&amp;rft.date=2019&amp;rft.isbn=978-1-950737-48-2&amp;rft.language=English"></span>
+  <div class="csl-entry">Association for Computational Linguistics, Korhonen, Anna, et al. <i>The 57th Annual Meeting of the Association for Computational Linguistics - Proceedings of the Conference July 28-August 2, 2019, Florence, Italy</i>. 2019. <i>Open WorldCat</i>, <a href="https://www.aclweb.org/anthology/P19-1">URL</a>.</div>
+ 
+  
   <div class="csl-entry">Attardo, Salvatore, éditeur. <i>The Routledge handbook of language and humor</i>. Routledge, 2017.</div>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-1-138-84306-6%20978-1-315-73116-2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The%20Routledge%20handbook%20of%20language%20and%20humor&amp;rft.place=New%20York&amp;rft.publisher=Routledge&amp;rft.series=Routledge%20handbooks%20in%20linguistics&amp;rft.aufirst=Salvatore&amp;rft.aulast=Attardo&amp;rft.au=Salvatore%20Attardo&amp;rft.date=2017&amp;rft.tpages=539&amp;rft.isbn=978-1-138-84306-6%20978-1-315-73116-2"></span>
+  
   <div class="csl-entry">Bjerva, Johannes, Östling, Robert. <i>ResSim at SemEval-2017 Task 1: Multilingual Word Representations for Semantic Textual Similarity</i>. Association for Computational Linguistics (ACL), 2017.</div>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-1-945626-55-5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=ResSim%20at%20SemEval-2017%20Task%201%3A%20Multilingual%20Word%20Representations%20for%20Semantic%20Textual%20Similarity&amp;rft.publisher=Association%20for%20Computational%20Linguistics%20(ACL)&amp;rft.aufirst=Johannes%2C%20%C3%96stling%2C%20Robert&amp;rft.aulast=Bjerva&amp;rft.au=Johannes%2C%20%C3%96stling%2C%20Robert%20Bjerva&amp;rft.date=2017&amp;rft.isbn=978-1-945626-55-5&amp;rft.language=English"></span>
+  
   <div class="csl-entry">Guibon, Gaël, et al. <i>Multilingual Fake News Detection with Satire</i>. 2019, <a href="https://halshs.archives-ouvertes.fr/halshs-02391141/document">https://halshs.archives-ouvertes.fr/halshs-02391141/document</a>.</div>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=Multilingual%20Fake%20News%20Detection%20with%20Satire&amp;rft.place=La%20Rochelle&amp;rft.aufirst=Ga%C3%ABl&amp;rft.aulast=Guibon&amp;rft.au=Ga%C3%ABl%20Guibon&amp;rft.au=Liana%20Ermakova&amp;rft.au=Hosni%20Seffih&amp;rft.au=Anton%20Firsov&amp;rft.au=Guillaume%20Le%20No%C3%A9-Bienvenu&amp;rft.date=2019-04"></span>
   <div class="csl-entry">Kolb, Waltraud, et Tristan Miller. «&nbsp;Human–Computer Interaction in Pun Translation&nbsp;». <i>Using Technologies for Creative-Text Translation</i>, édité par James Hadley et al., Routledge, 2022.</div>
