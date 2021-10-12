@@ -40,11 +40,11 @@
 
       - «&nbsp;La traduction des jeux de mots: question de langue, question de traducteur?&nbsp;» <em>Actes du 10e colloque estudiantin de la SESDEF</em>, 2008, <a href="http://www.chass.utoronto.ca/french/SESDEF/miroir/regattin.pdf">URL</a>.
 
-      - Verhasselt, Étienne, «&nbsp;La Bimbia&nbsp;», <em>Les Pas perdus</em>, traduit par Fabio Regattin, Le Tripode, p. 57‑59, <a href="https://www.intralinea.org/index.php/translations/item/2412">URL</a>.
+      - Verhasselt Étienne, «&nbsp;La Bimbia&nbsp;», <em>Les Pas perdus</em>, traduit par Fabio Regattin, Le Tripode, p. 57‑59, <a href="https://www.intralinea.org/index.php/translations/item/2412">URL</a>.
  
-  - Pano Alamán Ana, et Fabio Regattin (dir.), <em>Giochi di parole e traduzione nelle lingue europee</em>, Roma, Aracne , 2018.
+  - Pano Alamán Ana et Fabio Regattin (dir.), <em>Giochi di parole e traduzione nelle lingue europee</em>, Roma, Aracne , 2018.
 
-  - Uma Alexandra, et al,  «&nbsp;SemEval-2021 Task 12: Learning with Disagreements&nbsp;», <em>Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021)</em>, Association for Computational Linguistics, 2021, p. 338‑47. <em>DOI.org (Crossref)</em>, <a href="https://doi.org/10.18653/v1/2021.semeval-1.41">URL</a>.
+  - Uma Alexandra et al.,  «&nbsp;SemEval-2021 Task 12: Learning with Disagreements&nbsp;», <em>Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021)</em>, Association for Computational Linguistics, 2021, p. 338‑47. <em>DOI.org (Crossref)</em>, <a href="https://doi.org/10.18653/v1/2021.semeval-1.41">URL</a>.
 
 
 <p>
