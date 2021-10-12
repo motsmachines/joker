@@ -3,22 +3,22 @@
   <img src="Joker.png" width="120" height="142">
 </p>
 
- [Home](index) | [Project](project) | [Partners](partners) | Publications |[Contact Us](contact) | [Tools](tools) |[<img src="drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/index)
+ [Home](index) | [Project](project) | [Partners](partners) | Publications | [Contact Us](contact) | [Tools](tools) |[<img src="drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/index)
 <br>
 
 <h2 align="center">Publications related to the JOKER project</h2>
   
-  - Hempelmann Christian F. et Miller Tristan, «&nbsp;Puns: Taxonomy and phonology&nbsp;», <em>The Routledge handbook of language and humor</em>, édité par Salvatore Attardo, Routledge, 2017, <a href="https://dx.doi.org/10.4324/9781315731162-8">URL</a>.
+  - Hempelmann Christian F. and Miller Tristan, «&nbsp;Puns: Taxonomy and phonology&nbsp;», <em>The Routledge handbook of language and humor</em>, édité par Salvatore Attardo, Routledge, 2017, <a href="https://dx.doi.org/10.4324/9781315731162-8">URL</a>.
   
   - Guibon Gaël et al., <em>Multilingual Fake News Detection with Satire</em>, 2019, <a href="https://halshs.archives-ouvertes.fr/halshs-02391141/document">URL</a>.
  
-  - Kolb Waltraud et Miller Tristan, «&nbsp;Human–Computer Interaction in Pun Translation&nbsp;», <em>Using Technologies for Creative-Text Translation</em>, édité par James Hadley et al., Routledge, 2022. (à paraitre)
+  - Kolb Waltraud and Miller Tristan, «&nbsp;Human–Computer Interaction in Pun Translation&nbsp;», <em>Using Technologies for Creative-Text Translation</em>, édité par James Hadley et al., Routledge, 2022. (à paraitre)
   
   - Miller Tristan et al., «&nbsp;Predicting the Humorousness of Tweets Using Gaussian Process Preference Learning&nbsp;», <em>Procesamiento Del Lenguaje Natural</em>, 2020, p. 37‑44. <em>DOI.org (CSL JSON)</em>, <a href="https://doi.org/10.26342/2020-64-4">URL</a>.
   
-  -  Miller Tristan et Gurevych Iryna, «&nbsp;Automatic disambiguation of English puns&nbsp;» in <em>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (ACL–IJCNLP 2015)</em>, volume 1, pp. 719–729, <a href="https://dx.doi.org/10.3115/v1/P15-1070">URL</a>.
+  -  Miller Tristan and Gurevych Iryna, «&nbsp;Automatic disambiguation of English puns&nbsp;» in <em>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (ACL–IJCNLP 2015)</em>, volume 1, pp. 719–729, <a href="https://dx.doi.org/10.3115/v1/P15-1070">URL</a>.
  
-  - Miller Tristan, Hempelmann Christian F. et Gurevych Iryna, «&nbsp;SemEval-2017 Task 7: Detection and interpretation of English puns&nbsp;», in <em>Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval-2017)</em>, p. 58–68, août 2017, <a href="https://dx.doi.org/10.18653/v1/S17-2005">URL</a>.
+  - Miller Tristan, Hempelmann Christian F. and Gurevych Iryna, «&nbsp;SemEval-2017 Task 7: Detection and interpretation of English puns&nbsp;», in <em>Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval-2017)</em>, p. 58–68, août 2017, <a href="https://dx.doi.org/10.18653/v1/S17-2005">URL</a>.
 
   - Miller Tristan, «&nbsp;The punster’s amanuensis: The proper place of humans and machines in the translation of wordplay&nbsp;», <em>Proceedings of the Second Workshop on Human-Informed Translation and Interpreting Technology (HiT-IT 2019)</em>, septembre 2019, p. 57‑74, <a href="https://doi.org/10.26615">URL</a>.
     
@@ -42,16 +42,16 @@
 
       - Verhasselt Étienne, «&nbsp;La Bimbia&nbsp;», <em>Les Pas perdus</em>, traduit par Fabio Regattin, Le Tripode, p. 57‑59, <a href="https://www.intralinea.org/index.php/translations/item/2412">URL</a>.
  
-  - Pano Alamán Ana et Fabio Regattin (dir.), <em>Giochi di parole e traduzione nelle lingue europee</em>, Roma, Aracne , 2018.
+  - Pano Alamán Ana and Fabio Regattin (dir.), <em>Giochi di parole e traduzione nelle lingue europee</em>, Roma, Aracne , 2018.
 
   - Uma Alexandra et al.,  «&nbsp;SemEval-2021 Task 12: Learning with Disagreements&nbsp;», <em>Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021)</em>, Association for Computational Linguistics, 2021, p. 338‑47. <em>DOI.org (Crossref)</em>, <a href="https://doi.org/10.18653/v1/2021.semeval-1.41">URL</a>.
 
 
 <p>
-<em>Ce projet a bénéficié d'une aide de l'état gérée par l'Agence Nationale de la Recherche au titre du programme « Investissements d'avenir » portant la Référence ANR-19-GURE-0001</em>
+<em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001</em>
 </p>
 <p>
-<em>JokeR est labellisé par la Maison des Sciences de l'Homme en Bretagne</em>
+<em>JokeR is supported by The Human Science Institute in Brittany (MSHB)</em>
 </p>
 <div align="center">
   <a href="https://www.mshb.fr"><img src="./MSHB.jpg" height="120"></a>
