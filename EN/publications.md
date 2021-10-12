@@ -8,19 +8,19 @@
 
 <h2 align="center">Publications related to the JOKER project</h2>
   
-  - Hempelmann Christian F. and Miller Tristan, «&nbsp;Puns: Taxonomy and phonology&nbsp;», <em>The Routledge handbook of language and humor</em>, édité par Salvatore Attardo, Routledge, 2017, <a href="https://dx.doi.org/10.4324/9781315731162-8">URL</a>.
+  - Hempelmann Christian F. and Miller Tristan, «&nbsp;Puns: Taxonomy and phonology&nbsp;», <em>The Routledge handbook of language and humor</em>, edited by Salvatore Attardo, Routledge, 2017, <a href="https://dx.doi.org/10.4324/9781315731162-8">URL</a>.
   
   - Guibon Gaël et al., <em>Multilingual Fake News Detection with Satire</em>, 2019, <a href="https://halshs.archives-ouvertes.fr/halshs-02391141/document">URL</a>.
  
-  - Kolb Waltraud and Miller Tristan, «&nbsp;Human–Computer Interaction in Pun Translation&nbsp;», <em>Using Technologies for Creative-Text Translation</em>, édité par James Hadley et al., Routledge, 2022. (à paraitre)
+  - Kolb Waltraud and Miller Tristan, «&nbsp;Human–Computer Interaction in Pun Translation&nbsp;», <em>Using Technologies for Creative-Text Translation</em>, edited by James Hadley et al., Routledge, 2022. (to be published)
   
   - Miller Tristan et al., «&nbsp;Predicting the Humorousness of Tweets Using Gaussian Process Preference Learning&nbsp;», <em>Procesamiento Del Lenguaje Natural</em>, 2020, p. 37‑44. <em>DOI.org (CSL JSON)</em>, <a href="https://doi.org/10.26342/2020-64-4">URL</a>.
   
   -  Miller Tristan and Gurevych Iryna, «&nbsp;Automatic disambiguation of English puns&nbsp;» in <em>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (ACL–IJCNLP 2015)</em>, volume 1, pp. 719–729, <a href="https://dx.doi.org/10.3115/v1/P15-1070">URL</a>.
  
-  - Miller Tristan, Hempelmann Christian F. and Gurevych Iryna, «&nbsp;SemEval-2017 Task 7: Detection and interpretation of English puns&nbsp;», in <em>Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval-2017)</em>, p. 58–68, août 2017, <a href="https://dx.doi.org/10.18653/v1/S17-2005">URL</a>.
+  - Miller Tristan, Hempelmann Christian F. and Gurevych Iryna, «&nbsp;SemEval-2017 Task 7: Detection and interpretation of English puns&nbsp;», in <em>Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval-2017)</em>, p. 58–68, August 2017, <a href="https://dx.doi.org/10.18653/v1/S17-2005">URL</a>.
 
-  - Miller Tristan, «&nbsp;The punster’s amanuensis: The proper place of humans and machines in the translation of wordplay&nbsp;», <em>Proceedings of the Second Workshop on Human-Informed Translation and Interpreting Technology (HiT-IT 2019)</em>, septembre 2019, p. 57‑74, <a href="https://doi.org/10.26615">URL</a>.
+  - Miller Tristan, «&nbsp;The punster’s amanuensis: The proper place of humans and machines in the translation of wordplay&nbsp;», <em>Proceedings of the Second Workshop on Human-Informed Translation and Interpreting Technology (HiT-IT 2019)</em>, September 2019, p. 57‑74, <a href="https://doi.org/10.26615">URL</a>.
     
   - Regattin Fabio, <em>Traduction automatique et jeux de mots : l’incursion (ludique) d’un inculte</em>. 2021, <a href="https://motsmachines.github.io/2021/en/submissions/Mots-Machines-2021_paper_5.pdf">URL</a>.
  
@@ -34,13 +34,13 @@
 
       - «&nbsp;Quand "la traduction est un jeu": métaphores ludiques dans le discours contemporain sur la traduction&nbsp;», <em>TTR (Traduction, Terminologie, Rédaction)</em>, vol. 26, n<sup>o</sup> 1, 2013, p. 221‑54.
 
-      - «&nbsp;Rejouer le jeu&nbsp;», <em>L’Étoile de mer</em>, n<sup>o</sup> numéro spécial n. 2, 2010, p. 63‑74.
+      - «&nbsp;Rejouer le jeu&nbsp;», <em>L’Étoile de mer</em>, n<sup>o</sup> special issue  n. 2, 2010, p. 63‑74.
 
-      - <em>Le Jeu des mots Réflexions sur la traduction des jeux linguistiques</em>, Bologne, Emil, 2009.
+      - <em>Le Jeu des mots Réflexions sur la traduction des jeux linguistiques</em>, Bologna, Emil, 2009.
 
       - «&nbsp;La traduction des jeux de mots: question de langue, question de traducteur?&nbsp;» <em>Actes du 10e colloque estudiantin de la SESDEF</em>, 2008, <a href="http://www.chass.utoronto.ca/french/SESDEF/miroir/regattin.pdf">URL</a>.
 
-      - Verhasselt Étienne, «&nbsp;La Bimbia&nbsp;», <em>Les Pas perdus</em>, traduit par Fabio Regattin, Le Tripode, p. 57‑59, <a href="https://www.intralinea.org/index.php/translations/item/2412">URL</a>.
+      - Verhasselt Étienne, «&nbsp;La Bimbia&nbsp;», <em>Les Pas perdus</em>, translated par Fabio Regattin, Le Tripode, p. 57‑59, <a href="https://www.intralinea.org/index.php/translations/item/2412">URL</a>.
  
   - Pano Alamán Ana and Fabio Regattin (dir.), <em>Giochi di parole e traduzione nelle lingue europee</em>, Roma, Aracne , 2018.
 
