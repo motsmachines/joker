@@ -22,14 +22,23 @@
   -  Miller, Tristan et Gurevych, Iryna. «&nbsp;Automatic disambiguation of English puns&nbsp;» in <i>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (ACL–IJCNLP 2015)</i>, volume 1, pp. 719–729, <a href="https://dx.doi.org/10.3115/v1/P15-1070">URL</a>.
   
   - Regattin, Fabio, <i>Traduction automatique et jeux de mots : l’incursion (ludique) d’un inculte</i>. 2021, <a href="https://motsmachines.github.io/2021/en/submissions/Mots-Machines-2021_paper_5.pdf">URL</a>.
+ 
     - «&nbsp;The punster’s amanuensis: The proper place of humans and machines in the translation of wordplay&nbsp;». <i>Proceedings of the Second Workshop on Human-Informed Translation and Interpreting Technology (HiT-IT 2019)</i>, septembre 2019, p. 57‑74, <a href="https://doi.org/10.26615">URL</a>.
+    
     - «&nbsp;La traduction des jeux de mots : une approche intégrée&nbsp;». <i>Atelier de traduction</i>, n<sup>o</sup> 23, 2015, p. 129‑51.
+  
     - «&nbsp;Fumetto, intertestualità, giochi di parole… le solite cose (e un giochino per chi legge). Deux Merlins di Joann Sfar: riflessioni sparse&nbsp;». <i>Tradurre. Pratiche Teorie Strumenti</i>, n<sup>o</sup> 17, autunno 2019, <a href="https://rivistatradurre.it/2019/11/fumetto-intertestualita-giochi-di-parole-le-solite-cose-e-un-giochino-per-chi-legge/">URL</a>.
+    
     - «&nbsp;Il ‘langage-univers’ di Boris Vian in due traduzioni italiane: Schiuma di giorni, La schiuma dei giorni&nbsp;». <i>Tradurre figure/Translating Figurative Language</i>, Bononia University Press, 2014, p. 193‑202.
+    
     - «&nbsp;Ambiguïté linguistique et pertinence&nbsp;». <i>In forma di saggi. Studi di francesistica in onore di Graziano Benelli</i>, Le Lettere, 2014, p. 229‑42.
+    
     - «&nbsp;Quand ‘la traduction est un jeu’: métaphores ludiques dans le discours contemporain sur la traduction&nbsp;». <i>TTR (Traduction, Terminologie, Rédaction)</i>, vol. 26, n<sup>o</sup> 1, 2013, p. 221‑54.
+    
     - «&nbsp;Rejouer le jeu&nbsp;». <i>L’Étoile de mer</i>, n<sup>o</sup> numéro spécial n. 2, 2010, p. 63‑74.
+    
     - <i>Le Jeu des mots. Réflexions sur la traduction des jeux linguistiques</i>. Emil, 2009.
+    
     - «&nbsp;La traduction des jeux de mots: question de langue, question de traducteur?&nbsp;» <i>Actes du 10e colloque estudiantin de la SESDEF</i>, 2008, <a href="http://www.chass.utoronto.ca/french/SESDEF/miroir/regattin.pdf">URL</a>.
  
   - Pano Alamán, Ana, et Fabio Regattin, éditeurs. <i>Giochi di parole e traduzione nelle lingue europee</i>. I edizione, Aracne editrice, 2018.
