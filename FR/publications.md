@@ -10,16 +10,13 @@
   
   - Christian F. Hempelmann et Miller. «&nbsp;Puns: Taxonomy and phonology&nbsp;». <i>The Routledge handbook of language and humor</i>, édité par Salvatore Attardo, Routledge, 2017, <a href="https://dx.doi.org/10.4324/9781315731162-8">URL</a>.
   
-  - Bjerva, Johannes, Östling, Robert. <i>ResSim at SemEval-2017 Task 1: Multilingual Word Representations for Semantic Textual Similarity</i>. Association for Computational Linguistics (ACL), 2017.
-  
   - Guibon, Gaël, et al. <i>Multilingual Fake News Detection with Satire</i>. 2019, <a href="https://halshs.archives-ouvertes.fr/halshs-02391141/document">URL</a>.
-
-  - Hempelmann, Christian F. et Miller, Tristan. «&nbsp;Puns: Taxonomy and phonology&nbsp;», in Salvatore Attardo, editor, <i>The Routledge Handbook of Language and Humor</i>, pp. 95–108. Routledge, New-York, février 2017, <a href="https://dx.doi.org/10.4324/9781315731162-8">URL</a>.
  
   - Kolb, Waltraud, et Tristan Miller. «&nbsp;Human–Computer Interaction in Pun Translation&nbsp;». <i>Using Technologies for Creative-Text Translation</i>, édité par James Hadley et al., Routledge, 2022.(à paraitre)
   
   - Miller, Tristan, et al. «&nbsp;Predicting the Humorousness of Tweets Using Gaussian Process Preference Learning&nbsp;». <i>Procesamiento Del Lenguaje Natural</i>, 2020, p. 37‑44. <i>DOI.org (CSL JSON)</i>, <a href="https://doi.org/10.26342/2020-64-4">URL</a>.
   -  Miller, Tristan et Gurevych, Iryna. «&nbsp;Automatic disambiguation of English puns&nbsp;» in <i>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (ACL–IJCNLP 2015)</i>, volume 1, pp. 719–729, <a href="https://dx.doi.org/10.3115/v1/P15-1070">URL</a>.
+  - Miller, Tristan, Hempelmann, Christian F. et Gurevych, Iryna. «&nbsp;SemEval-2017 Task 7: Detection and interpretation of English puns&nbsp;», in <i>Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval-2017)</i>, pp. 58–68, août 2017, <a href="https://dx.doi.org/10.18653/v1/S17-2005">URL</a>.
   
   - Regattin, Fabio, <i>Traduction automatique et jeux de mots : l’incursion (ludique) d’un inculte</i>. 2021, <a href="https://motsmachines.github.io/2021/en/submissions/Mots-Machines-2021_paper_5.pdf">URL</a>.
  
