@@ -3,7 +3,7 @@
   <img src="Joker.png" width="120" height="142">
 </p>
 
-Accueil | [Projet](projet) | [Partenaires](partenaires) | [Nous contacter](contact) | [Outils](outils) | [<img src="drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/index)
+[Accueil](index) | [Projet](projet) | Publications | [Partenaires](partenaires) | [Nous contacter](contact) | [Outils](outils) | [<img src="drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/index)
 <br>
 
 <h2 align="center">Liste des publications liées au projet JOKER</h2>
@@ -30,3 +30,19 @@ Regattin, F. (2014a). Ambiguïté linguistique et pertinence. In M. Raccanello, 
 Regattin, F. (2014b). Il ‘langage-univers’ di Boris Vian in due traduzioni italiane : Schiuma di giorni, La schiuma dei giorni. In D. R. Miller & E. Monti, Tradurre figure/Translating Figurative Language (p. 193 202). Bononia University Press.
 Regattin, F. (2019). Fumetto, intertestualità, giochi di parole… le solite cose (e un giochino per chi legge). Deux Merlins di Joann Sfar : Riflessioni sparse. Tradurre. Pratiche Teorie Strumenti, 17. https://rivistatradurre.it/2019/11/fumetto-intertestualita-giochi-di-parole-le-solite-cose-e-un-giochino-per-chi-legge/
 Regattin, F. (2021, mars 5). Traduction automatique et jeux de mots : L’incursion (ludique) d’un inculte. Journée Mots/Machines #3, Brest, Université de Bretagne occidentale. https://motsmachines.github.io/2021/en/submissions/Mots-Machines-2021_paper_5.pdf
+
+<p>
+<em>Ce projet a bénéficié d'une aide de l'état gérée par l'Agence Nationale de la Recherche au titre du programme « Investissements d'avenir » portant la Référence ANR-19-GURE-0001</em>
+</p>
+<p>
+<em>JokeR est labellisé par la Maison des Sciences de l'Homme en Bretagne</em>
+</p>
+<div align="center">
+  <a href="https://www.mshb.fr"><img src="./MSHB.jpg" height="120"></a>
+  <a href="https://sea-eu.org/?lang=fr"><img src="./SEA-EU.png" height="120"></a>
+  <a href="https://www.gouvernement.fr/le-programme-d-investissements-d-avenir"><img src="./Investissement avenir.jpeg" height="120"></a>
+</div>
+<br />
+<div align="center">
+  <a href="https://clef2022.clef-initiative.eu/index.php"><img src="./CLEF2022.png" height="90"></a> 
+</div>
