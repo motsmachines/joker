@@ -66,17 +66,17 @@
 <br>*Participant*
 
 ## Partenaires des universités SEA-EU : <img align="right" width="150" height="150" src="SEA-EU.png">
-* **Sergio Portelli (University of Malta)**
-<br>MCF, Directeur du Département de Traduction
-<br>Département de Traduction, Terminologie et Interprétariat, Faculté des Arts
-<br>[Lien vers le profil](https://www.um.edu.mt/profile/sergioportelli)
-<br>*Coordinateur dans l’université partenaire, specialiste de la traduction*
-
 * **Ġorġ Mallia (University of Malta)**
 <br>MCF
 <br>Département Médias et Communication, Faculté de Sciences et Multimédia
 <br>[Lien vers le profil](https://www.um.edu.mt/profile/gorgmallia)
-<br>*Participant, specialiste de l'humour*
+<br>*Coordinateur dans l’université partenaire, specialiste de l'humour*
+
+* **Claudine Borg (University of Malta)**
+<br>MCF
+<br>Département de Traduction, Terminologie et Interprétariat, Faculté des Arts
+<br>[Link to profile](https://www.um.edu.mt/profile/claudineborg)
+<br>*Participant, specialiste de la traduction*
 
 * **Monika Bokiniec (University of Gdansk, Poland)**
 <br>MCF
@@ -89,6 +89,12 @@
 <br>Département de Langue et de Littérature Anglaise
 <br>[Lien vers le profil](https://www.ffst.unist.hr/gordan.matas)
 <br>*Coordinateur dans l’université partenaire*
+
+* **Danica Škara (University of Split)**
+<br>Professeur Emerite
+<br>Département de Langue et de Littérature Anglaise
+<br>[Link to profile](https://www.researchgate.net/profile/Danica-Skara)
+<br>*Participant*
 
 ## Maintenance web :
 * **Adrien Couaillet (UBO)**
