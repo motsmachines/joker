@@ -66,17 +66,18 @@
 <br>*Participant*
 
 ## Partners from the SEA-EU universities: <img align="right" width="150" height="150" src="SEA-EU.png">
-* **Sergio Portelli (University of Malta)** 
-<br>Associate Professor, Head of Department of Translation
-<br>Department of Translation, Terminology and Interpreting Studies, Faculty of Arts 
-<br>[Link to profile](https://www.um.edu.mt/profile/sergioportelli)
-<br>*Partner university coordinator, specialist in translation*
 
 * **Ġorġ Mallia (University of Malta)**
 <br>Associate Professor
 <br>Media & Communications department, Faculty of Media & Knowledge Sciences
 <br>[Link to profile](https://www.um.edu.mt/profile/gorgmallia)
-<br>*Participant, specialist in humour*
+<br>*Partner university coordinator, specialist in humour*
+
+* **Claudine Borg (University of Malta)**
+<br>Associate Professor
+<br>Translation, Terminology and Interpreting Studies Faculty of Arts
+<br>[Link to profile](https://www.um.edu.mt/profile/claudineborg)
+<br>*Participant, specialist in translation*
 
 * **Monika Bokiniec (University of Gdansk)** 
 <br>Associate Professor
@@ -89,6 +90,14 @@
 <br>Department of Language and English Literature
 <br>[Link to profile](https://www.ffst.unist.hr/gordan.matas)
 <br>*Partner university coordinator*
+
+
+* **Danica Škara (University of Split)**
+<br>Professor Emeritus
+<br>English department, Faculty of Philosophy
+<br>[Link to profile](https://www.researchgate.net/profile/Danica-Skara)
+<br>*Participant*
+
 
 ## Website maintenance:
 * **Adrien Couaillet (UBO)**
