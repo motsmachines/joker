@@ -24,21 +24,21 @@
     
   - Regattin Fabio, <em>Traduction automatique et jeux de mots : l’incursion (ludique) d’un inculte</em>. 2021, <a href="https://motsmachines.github.io/2021/en/submissions/Mots-Machines-2021_paper_5.pdf">URL</a>.
  
-  - Regattin Fabio,«&nbsp;La traduction des jeux de mots : une approche intégrée&nbsp;», <em>Atelier de traduction</em>, n<sup>o</sup> 23, 2015, p. 129‑51.
+  - Regattin Fabio, «&nbsp;La traduction des jeux de mots : une approche intégrée&nbsp;», <em>Atelier de traduction</em>, n<sup>o</sup> 23, 2015, p. 129‑51.
 
-  - Regattin Fabio,«&nbsp;Fumetto, intertestualità, giochi di parole… le solite cose (e un giochino per chi legge). Deux Merlins di Joann Sfar: riflessioni sparse&nbsp;»,  <em>Tradurre. Pratiche Teorie Strumenti</em>, n<sup>o</sup> 17, autunno 2019, <a href="https://rivistatradurre.it/2019/11/fumetto-intertestualita-giochi-di-parole-le-solite-cose-e-un-giochino-per-chi-legge/">URL</a>.
+  - Regattin Fabio, «&nbsp;Fumetto, intertestualità, giochi di parole… le solite cose (e un giochino per chi legge). Deux Merlins di Joann Sfar: riflessioni sparse&nbsp;»,  <em>Tradurre. Pratiche Teorie Strumenti</em>, n<sup>o</sup> 17, autunno 2019, <a href="https://rivistatradurre.it/2019/11/fumetto-intertestualita-giochi-di-parole-le-solite-cose-e-un-giochino-per-chi-legge/">URL</a>.
 
-  - Regattin Fabio,«&nbsp;Il "langage-univers" di Boris Vian in due traduzioni italiane: Schiuma di giorni, La schiuma dei giorni&nbsp;», in <em>Tradurre figure/Translating Figurative Language</em>, Bologna, Bononia University Press, 2014, p. 193‑202.
+  - Regattin Fabio, «&nbsp;Il "langage-univers" di Boris Vian in due traduzioni italiane: Schiuma di giorni, La schiuma dei giorni&nbsp;», in <em>Tradurre figure/Translating Figurative Language</em>, Bologna, Bononia University Press, 2014, p. 193‑202.
 
-  - Regattin Fabio,«&nbsp;Ambiguïté linguistique et pertinence&nbsp;», in Raccanello Manuela (dir.) <em>In forma di saggi. Studi di francesistica in onore di Graziano Benelli</em>, Firenze, Le Lettere, 2014, p. 229‑42.
+  - Regattin Fabio, «&nbsp;Ambiguïté linguistique et pertinence&nbsp;», in Raccanello Manuela (dir.) <em>In forma di saggi. Studi di francesistica in onore di Graziano Benelli</em>, Firenze, Le Lettere, 2014, p. 229‑42.
 
-  - Regattin Fabio,«&nbsp;Quand "la traduction est un jeu": métaphores ludiques dans le discours contemporain sur la traduction&nbsp;», <em>TTR (Traduction, Terminologie, Rédaction)</em>, vol. 26, n<sup>o</sup> 1, 2013, p. 221‑54.
+  - Regattin Fabio, «&nbsp;Quand "la traduction est un jeu": métaphores ludiques dans le discours contemporain sur la traduction&nbsp;», <em>TTR (Traduction, Terminologie, Rédaction)</em>, vol. 26, n<sup>o</sup> 1, 2013, p. 221‑54.
 
-  - Regattin Fabio,«&nbsp;Rejouer le jeu&nbsp;», <em>L’Étoile de mer</em>, n<sup>o</sup> numéro spécial n. 2, 2010, p. 63‑74.
+  - Regattin Fabio, «&nbsp;Rejouer le jeu&nbsp;», <em>L’Étoile de mer</em>, n<sup>o</sup> numéro spécial n. 2, 2010, p. 63‑74.
 
-  - Regattin Fabio,<em>Le Jeu des mots Réflexions sur la traduction des jeux linguistiques</em>, Bologne, Emil, 2009.
+  - Regattin Fabio, <em>Le Jeu des mots Réflexions sur la traduction des jeux linguistiques</em>, Bologne, Emil, 2009.
 
-  - Regattin Fabio,«&nbsp;La traduction des jeux de mots: question de langue, question de traducteur?&nbsp;» <em>Actes du 10e colloque estudiantin de la SESDEF</em>, 2008, <a href="http://www.chass.utoronto.ca/french/SESDEF/miroir/regattin.pdf">URL</a>.
+  - Regattin Fabio, «&nbsp;La traduction des jeux de mots: question de langue, question de traducteur?&nbsp;» <em>Actes du 10e colloque estudiantin de la SESDEF</em>, 2008, <a href="http://www.chass.utoronto.ca/french/SESDEF/miroir/regattin.pdf">URL</a>.
 
   - Regattin Fabio (trad.) ,Verhasselt Étienne, «&nbsp;La Bimbia&nbsp;», <em>Les Pas perdus</em>, Le Tripode, p. 57‑59, <a href="https://www.intralinea.org/index.php/translations/item/2412">URL</a>.
  
