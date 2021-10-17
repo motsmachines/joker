@@ -16,7 +16,7 @@
   
   - Miller Tristan et al., «&nbsp;Predicting the Humorousness of Tweets Using Gaussian Process Preference Learning&nbsp;», <em>Procesamiento Del Lenguaje Natural</em>, 2020, p. 37‑44. <em>DOI.org (CSL JSON)</em>, <a href="https://doi.org/10.26342/2020-64-4">URL</a> - <a href="../BibTex/Predicting_the_humorousness_of_tweets.bib">BibTeX</a>
   
-  -  Miller Tristan et Gurevych Iryna, «&nbsp;Automatic disambiguation of English puns&nbsp;» in <em>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (ACL–IJCNLP 2015)</em>, volume 1, pp. 719–729, <a href="https://dx.doi.org/10.3115/v1/P15-1070">URL</a> 
+  -  Miller Tristan et Gurevych Iryna, «&nbsp;Automatic disambiguation of English puns&nbsp;» in <em>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (ACL–IJCNLP 2015)</em>, volume 1, pp. 719–729, <a href="https://dx.doi.org/10.3115/v1/P15-1070">URL</a> - <a href="../BibTex/Automatic_disambiguation_of_English_puns.bib">BibTeX</a> 
  
   - Miller Tristan, Hempelmann Christian F. et Gurevych Iryna, «&nbsp;SemEval-2017 Task 7: Detection and interpretation of English puns&nbsp;», in <em>Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval-2017)</em>, p. 58–68, août 2017, <a href="https://dx.doi.org/10.18653/v1/S17-2005">URL</a> - <a href="../BibTex/Puns_Taxonomy_and_phonology.bib">BibTeX</a>
 
