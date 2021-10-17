@@ -1,9 +1,9 @@
 # JokeR
   <p align="center">
-  <img src="Joker.png" width="120" height="142">
+  <img src="../img/Joker.png" width="120" height="142">
   </p>
 
-[Accueil](index) | Projet | [Publications](publications) | [Partenaires](partenaires) | [Nous contacter](contact) | [Outils](outils) | [<img src="drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/project)
+[Accueil](index) | Projet | [Publications](publications) | [Partenaires](partenaires) | [Nous contacter](contact) | [Outils](outils) | [<img src="../img/drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/project)
 <br>
   <h1 align="center"><a href="https://motsmachines.github.io/joker/EN">CLEF Workshop JOKER</a>:</h1>
   <h2 align="center">Traduction automatique des jeux de mots et de l'humour
@@ -74,11 +74,11 @@ Discours d'ouverture 15 min
 <em>JokeR est labellisé par la Maison des Sciences de l'Homme en Bretagne</em>
 </p>
 <div align="center">
-  <a href="https://www.mshb.fr"><img src="./MSHB.jpg" height="120"></a>
-  <a href="https://sea-eu.org/?lang=fr"><img src="./SEA-EU.png" height="120"></a>
-  <a href="https://www.gouvernement.fr/le-programme-d-investissements-d-avenir"><img src="./Investissement avenir.jpeg" height="120"></a>
+  <a href="https://www.mshb.fr"><img src="../img/MSHB.jpg" height="120"></a>
+  <a href="https://sea-eu.org/?lang=fr"><img src="../img/SEA-EU.png" height="120"></a>
+  <a href="https://www.gouvernement.fr/le-programme-d-investissements-d-avenir"><img src="../img/Investissement avenir.jpeg" height="120"></a>
 </div>
 <br />
 <div align="center">
-  <a href="https://clef2022.clef-initiative.eu/index.php"><img src="./CLEF2022.png" height="90"></a> 
+  <a href="https://clef2022.clef-initiative.eu/index.php"><img src="../img/CLEF2022.png" height="90"></a> 
 </div>
