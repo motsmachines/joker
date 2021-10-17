@@ -65,7 +65,7 @@
 <br>[Lien vers le profil](https://logological.org/)
 <br>*Participant*
 
-## Partenaires des universités SEA-EU : <img align="right" width="150" height="150" src="SEA-EU.png">
+## Partenaires des universités SEA-EU : <img align="right" width="150" height="150" src="../img/SEA-EU.png">
 * **Ġorġ Mallia (University of Malta)**
 <br>MCF
 <br>Département Médias et Communication, Faculté de Sciences et Multimédia
