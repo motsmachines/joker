@@ -1,9 +1,9 @@
 # JokeR
 <p align="center">
-  <img src="Joker.png" width="120" height="142">
+  <img src="../img/Joker.png" width="120" height="142">
 </p>
 
-[Home](index) | [Project](project) | [Publications](publications) | Partners | [Contact Us](contact) | [Tools](tools) | [<img src="drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/partenaires) 
+[Home](index) | [Project](project) | [Publications](publications) | Partners | [Contact Us](contact) | [Tools](tools) | [<img src="../img/drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/partenaires) 
 <br>
 
 ## Organizers: 
@@ -65,7 +65,7 @@
 <br>[Link to profile](https://logological.org/) 
 <br>*Participant*
 
-## Partners from the SEA-EU universities: <img align="right" width="150" height="150" src="SEA-EU.png">
+## Partners from the SEA-EU universities: <img align="right" width="150" height="150" src="../img/SEA-EU.png">
 
 * **Ġorġ Mallia (University of Malta)**
 <br>Associate Professor
@@ -111,10 +111,10 @@
 <br>*Intern*
 
 <p align="center">
-<img src="UBO.png" width="150">  <img src="UBS.png" width="150">  <img src="CRBC.png" width="150">
-<br><img src="ENIB.png" width="130">  <img src="Cehum.png" width="180">
-<br><img src="Università - Malta.png" width="200">  <img src="University of Split.png" width="100">  <img src="Università - UDINE.png" width="230">
-<br><img src="University of Gdansk.png" width="120">  <img src="HCTI.png" width="80">  <img src="OFAI.png" width="90">
+<img src="../img/UBO.png" width="150">  <img src="../img/UBS.png" width="150">  <img src="../img/CRBC.png" width="150">
+<br><img src="../img/ENIB.png" width="130">  <img src="../img/Cehum.png" width="180">
+<br><img src="../img/Università - Malta.png" width="200">  <img src="../img/University of Split.png" width="100">  <img src="../img/Università - UDINE.png" width="230">
+<br><img src="../img/University of Gdansk.png" width="120">  <img src="../img/HCTI.png" width="80">  <img src="../img/OFAI.png" width="90">
 </p>
 
 <p>
@@ -124,11 +124,11 @@
 <em>JokeR is supported by The Human Science Institute in Brittany (MSHB)</em>
 </p>
 <div align="center">
-  <a href="https://www.mshb.fr"><img src="./MSHB.jpg" height="120"></a>
-  <a href="https://sea-eu.org/?lang=fr"><img src="./SEA-EU.png" height="120"></a>
-  <a href="https://www.gouvernement.fr/le-programme-d-investissements-d-avenir"><img src="./Investissement avenir.jpeg" height="120"></a>
+  <a href="https://www.mshb.fr"><img src="../img/MSHB.jpg" height="120"></a>
+  <a href="https://sea-eu.org/?lang=fr"><img src="../img/SEA-EU.png" height="120"></a>
+  <a href="https://www.gouvernement.fr/le-programme-d-investissements-d-avenir"><img src="../img/Investissement avenir.jpeg" height="120"></a>
 </div>
 <br />
 <div align="center">
-  <a href="https://clef2022.clef-initiative.eu/index.php"><img src="./CLEF2022.png" height="90"></a> 
+  <a href="https://clef2022.clef-initiative.eu/index.php"><img src="../img/CLEF2022.png" height="90"></a> 
 </div>
