@@ -15,7 +15,7 @@
 
 **Email:** [joker.humour.project@gmail.com](mailto:joker.humour.project@gmail.com)
 
-
+<a class="twitter-timeline" href="https://twitter.com/joker_research?ref_src=twsrc%5Etfw">Tweets by joker_research</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p>
 <em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001</em>
